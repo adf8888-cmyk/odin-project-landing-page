@@ -15,9 +15,6 @@ ul {
   gap: 16px;
 }
 
-div {
-  border: red 1px solid;
-}
 
 .top-bar {
   display: flex;
